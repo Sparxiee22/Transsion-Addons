@@ -4,16 +4,6 @@ Transsion Addons is an Android tuning utility for rooted Transsion-family device
 
 Created by **Sparxiee22**.
 
-## Features
-
-- Display refresh, resolution, debug and renderer controls
-- CPU/GPU governor and frequency controls
-- Kernel settings for I/O, memory, scheduler, networking and misc nodes
-- Thermal monitor and thermal throttling toggle
-- Game Space compatibility and runtime controls
-- LED backlight controls when the kernel exposes LED nodes
-- Floating overlay monitor for FPS, CPU/GPU, RAM, temperatures and battery
-
 ## Screenshots
 
 ![Transsion Addons screenshot 1](screenshots/photo_6062316389957051682_w.jpg)
@@ -32,6 +22,16 @@ Created by **Sparxiee22**.
 ![Transsion Addons screenshot 14](screenshots/photo_6062316389957051695_w.jpg)
 ![Transsion Addons screenshot 15](screenshots/photo_6062316389957051696_w.jpg)
 ![Transsion Addons screenshot 16](screenshots/photo_6062316389957051697_w.jpg)
+
+## Features
+
+- Display refresh, resolution, debug and renderer controls
+- CPU/GPU governor and frequency controls
+- Kernel settings for I/O, memory, scheduler, networking and misc nodes
+- Thermal monitor and thermal throttling toggle
+- Game Space compatibility and runtime controls
+- LED backlight controls when the kernel exposes LED nodes
+- Floating overlay monitor for FPS, CPU/GPU, RAM, temperatures and battery
 
 ## Install Modes
 
@@ -85,25 +85,3 @@ Many controls write directly to kernel nodes or Android system settings. Disabli
 ## License
 
 This project is licensed under the MIT License. Everyone is free to use, modify, fork, and redistribute it as long as the license notice is kept.
-=======
-# Transsion-Addons
-Transsion Addons Apk
-
-### Screenshots Preview
-
-![photo_6062316389957051682_w.jpg](screenshots/photo_6062316389957051682_w.jpg)
-![photo_6062316389957051683_w.jpg](screenshots/photo_6062316389957051683_w.jpg)
-![photo_6062316389957051684_w.jpg](screenshots/photo_6062316389957051684_w.jpg)
-![photo_6062316389957051685_w.jpg](screenshots/photo_6062316389957051685_w.jpg)
-![photo_6062316389957051686_w.jpg](screenshots/photo_6062316389957051686_w.jpg)
-![photo_6062316389957051687_w.jpg](screenshots/photo_6062316389957051687_w.jpg)
-![photo_6062316389957051688_w.jpg](screenshots/photo_6062316389957051688_w.jpg)
-![photo_6062316389957051689_w.jpg](screenshots/photo_6062316389957051689_w.jpg)
-![photo_6062316389957051690_w.jpg](screenshots/photo_6062316389957051690_w.jpg)
-![photo_6062316389957051691_w.jpg](screenshots/photo_6062316389957051691_w.jpg)
-![photo_6062316389957051692_w.jpg](screenshots/photo_6062316389957051692_w.jpg)
-![photo_6062316389957051693_w.jpg](screenshots/photo_6062316389957051693_w.jpg)
-![photo_6062316389957051694_w.jpg](screenshots/photo_6062316389957051694_w.jpg)
-![photo_6062316389957051695_w.jpg](screenshots/photo_6062316389957051695_w.jpg)
-![photo_6062316389957051696_w.jpg](screenshots/photo_6062316389957051696_w.jpg)
-![photo_6062316389957051697_w.jpg](screenshots/photo_6062316389957051697_w.jpg)
